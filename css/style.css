@@ -1,0 +1,25 @@
+@import url('normalize.css');
+
+body {
+  padding: 10px;
+  font-family: 'Muli', sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+#result_img {
+  text-align: center;
+}
+
+#result_img div {
+  text-align:center;
+}
+
+#result_img div img {
+  border-radius: 5px;
+  margin: 20px;
+}
+
+
